@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.css": "/react-emi-calculator/static/css/main.31d6cfe0.css",
+    "main.js": "/react-emi-calculator/static/js/main.0af1a3f6.js",
+    "index.html": "/react-emi-calculator/index.html",
+    "main.0af1a3f6.js.map": "/react-emi-calculator/static/js/main.0af1a3f6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31d6cfe0.css",
+    "static/js/main.0af1a3f6.js"
+  ]
+}
